@@ -1,0 +1,16 @@
+https://www.in28minutes.com/
+
+https://www.in28minutes.com/first-java-web-application-with-jsp-and-servlets-in-25-steps
+
+https://www.in28minutes.com/spring-boot-maven-eclipse-troubleshooting-guide-and-faq
+
+https://www.in28minutes.com/mockito-tutorial-for-beginners
+
+https://www.in28minutes.com/maven-tutorial-for-beginners
+
+
+https://www.in28minutes.com/junit-tutorial-for-beginners
+
+https://www.in28minutes.com/jpa-hibernate-tutorial-for-beginners
+
+https://www.in28minutes.com/jpa-and-hibernate-tutorial-with-spring-boot
